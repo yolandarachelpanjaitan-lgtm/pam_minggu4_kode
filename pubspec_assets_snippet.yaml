@@ -1,0 +1,6 @@
+# Tambahkan di pubspec.yaml (bagian flutter:), perhatikan indentasi 2 spasi:
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/stylishchair.jpg
